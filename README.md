@@ -20,7 +20,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: 
 SQL INJECTION
 
-
+![SQL Injection](https://github.com/saroze13/Week-8/blob/master/SQLi.gif)
 
 
 
@@ -30,6 +30,7 @@ SQL INJECTION
 
 Vulnerability #2: 
 Session Hijacking or Fixation 
+![Session Hijacking/Fixation](https://github.com/saroze13/Week-8/blob/master/Session%20Hijacking.gif)
 
 
 
