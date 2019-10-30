@@ -52,6 +52,12 @@ Cross-Site Scripting Green Vulnerable
 
 Vulnerability #2: 
 User Enumeration
+
+Different Styling for “Log in was unsuccessful.
+“ Message on Green site while username is present.
+
+
+
 ![User enumeration](https://github.com/saroze13/Week-8/blob/master/User%20Enumuration.gif)
 
 
