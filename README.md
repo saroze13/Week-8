@@ -41,6 +41,7 @@ Session Hijacking or Fixation
 
 Vulnerability #1: 
 Cross-Site Scripting Green Vulnerable
+![SQL Injection](https://github.com/saroze13/Week-8/blob/master/SQLi.gif)
 
 
 
@@ -50,7 +51,8 @@ Cross-Site Scripting Green Vulnerable
 
 
 Vulnerability #2: 
-User enumeration Green vulnerable
+User Enumeration
+![User enumeration](https://github.com/saroze13/Week-8/blob/master/User%20Enumuration.gif)
 
 
 
@@ -59,6 +61,7 @@ User enumeration Green vulnerable
 
 Vulnerability #1
 CSRF
+![CSRF](https://github.com/saroze13/Week-8/blob/master/CSRF.gif)
 
 
 
@@ -66,6 +69,7 @@ CSRF
 
 Vulnerability #2 
 Insecure Data Object Reference
+![Insecure Data Object Reference](https://github.com/saroze13/Week-8/blob/master/IDOR.gif)
 
 
 
@@ -73,6 +77,6 @@ Insecure Data Object Reference
 
 
 ##Bonus: SQLi Database infromation extraction 
-Build on Objective #4 (Cross-Site Scripting). Experiment to see if you can use XSS to: direct the user to a google
 
 
+![SQL Injection Bonus](https://github.com/saroze13/Week-8/blob/master/SQLi%20Bonus.gif)
