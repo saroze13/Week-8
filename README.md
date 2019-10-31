@@ -82,6 +82,7 @@ Insecure Data Object Reference
 
 
 ##Bonus: SQLi Database infromation extraction 
+
 Tables name Extrated 
 
 
